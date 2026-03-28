@@ -23,3 +23,6 @@ This project is a web-based application built using React and TypeScript that he
 
 ## 📊 Purpose
 This project helps automate medical report understanding and improves efficiency.
+
+## Demo
+Coming soon / Screenshot added
